@@ -4,8 +4,8 @@ function About() {
   return (
     <>
       <section id="introduction" className="container my-5 py-5 text-center">
-        <h1 className="display-5 mb-4 fw-bold">About Us</h1>
-        <h1>Helping Business to </h1>
+        <h3>About Us</h3>
+        <h1  className="display-5 mb-4 fw-bold">Helping Business to </h1>
         <h5 className="d-block mx-auto w-75">
           Welcome to InnovateTech Solutions, where we specialize in transforming
           innovative ideas into cutting-edge technology. Our journey began in a
