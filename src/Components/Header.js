@@ -7,7 +7,7 @@ import "./Main.css";
 function Header() {
   return (
     <>
-      <nav className="navbar navbar-expand-lg sticky">
+      <nav className="navbar navbar-expand-lg sticky bg-body-tertiary transparent-navbar">
         <div className="container-fluid container">
           <NavLink className="navbar-brand" to="/">
             <img src={logoImg} alt="Logo" className="logoimg" />
