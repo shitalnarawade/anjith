@@ -15,6 +15,7 @@ function Footer() {
               </NavLink>
               <p>
                 Some description about the company, its mission, and values.
+                Some quick example text to build on the card title and make up the bulk of the card's content.
               </p>
             </div>
             <div className="col-lg-4 col-md-6 mb-4 mb-md-0">
@@ -55,7 +56,7 @@ function Footer() {
               <p>Phone: (123) 456-7890</p>
             </div>
           </div>
-          <div className="text-center p-3 bg-light">
+          <div className="text-center p-3">
             <p className="mb-0">
               © {new Date().getFullYear()} Name. All rights reserved.
             </p>
